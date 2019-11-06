@@ -25,7 +25,7 @@ SECRET_KEY = '3g@$0-yyzy6hq$3jn6z5mj-^i(sy^x_ekehyq*&bhuj77dnspy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
 
 
 # Application definition
